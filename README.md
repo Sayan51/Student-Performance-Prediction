@@ -1,4 +1,7 @@
 # 🎓 Student Performance Prediction using Machine Learning
+## 🚀 Live Web App
+
+[Click here to try the live app](https://student-performance-prediction-b5g9ncrbj7ej3dkydvs9uy.streamlit.app/)
 
 ## 📌 Overview
 
