@@ -71,3 +71,28 @@ The model explains approximately **81% of the variation** in student final grade
 ## 🚀 Running the Project Locally
 
 ### 1️⃣ Install dependencies
+
+### 2️⃣ Run Streamlit app
+
+---
+
+## ⚠ Limitations
+
+- Dataset size is relatively small
+- Does not include psychological or environmental factors
+- Model performance may vary across different schools
+
+---
+
+## 🚀 Future Improvements
+
+- Hyperparameter tuning
+- Cross-validation
+- Compare with Gradient Boosting / XGBoost
+- Deploy on cloud platform (Streamlit Cloud / Render)
+
+---
+
+## 📬 Author
+
+Built as part of machine learning practice and portfolio development.
